@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Maratik555/react-styled-components/static/js/main.dbdb695f.chunk.js",
+    "main.js.map": "/Maratik555/react-styled-components/static/js/main.dbdb695f.chunk.js.map",
+    "runtime-main.js": "/Maratik555/react-styled-components/static/js/runtime-main.3122808e.js",
+    "runtime-main.js.map": "/Maratik555/react-styled-components/static/js/runtime-main.3122808e.js.map",
+    "static/js/2.f95a00ec.chunk.js": "/Maratik555/react-styled-components/static/js/2.f95a00ec.chunk.js",
+    "static/js/2.f95a00ec.chunk.js.map": "/Maratik555/react-styled-components/static/js/2.f95a00ec.chunk.js.map",
+    "index.html": "/Maratik555/react-styled-components/index.html",
+    "static/js/2.f95a00ec.chunk.js.LICENSE.txt": "/Maratik555/react-styled-components/static/js/2.f95a00ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3122808e.js",
+    "static/js/2.f95a00ec.chunk.js",
+    "static/js/main.dbdb695f.chunk.js"
+  ]
+}
