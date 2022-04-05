@@ -5,7 +5,7 @@ const rotateAnimation = keyframes`
 {
     transform: rotateZ(0deg);
 }
-to {    transform: rotateZ(360deg);
+to {    transform: rotateZ(40deg);
 }
 `
 
