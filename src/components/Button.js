@@ -21,9 +21,6 @@ cursor: pointer;
 &:focus {
     outline: none;
 }
-&: hover {
-    animation: ${rotateAnimation} 2s infinite linear;
-}
 align-self: ${props => props.align || 'stretch'};
 
 ${props => props.primary && css`
