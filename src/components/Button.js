@@ -3,9 +3,9 @@ import styled, {css, keyframes} from 'styled-components'
 
 const rotateAnimation = keyframes`
 {
-    transform: rotateZ(0deg);
+    transform: scale(1);
 }
-to {    transform: rotateZ(40deg);
+to {    transform: rotateZ(0.5);
 }
 `
 
